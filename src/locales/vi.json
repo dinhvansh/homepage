@@ -1,0 +1,131 @@
+{
+    "nav": {
+        "features": "Tính năng",
+        "pricing": "Bảng giá",
+        "roadmap": "Lộ trình",
+        "login": "Đăng nhập",
+        "getStarted": "Bắt đầu ngay"
+    },
+    "hero": {
+        "badge": "Giải pháp Ký điện tử SaaS & On-Premise",
+        "title": "Ký số an toàn cho",
+        "titleHighlight": "Doanh nghiệp hiện đại",
+        "description": "Nền tảng ký điện tử đa tenant tối ưu. Triển khai tại chỗ hoặc sử dụng đám mây bảo mật của chúng tôi. Nhật ký kiểm tra đầy đủ, tự động hóa quy trình và bảo mật cấp doanh nghiệp.",
+        "ctaPrimary": "Dùng thử miễn phí",
+        "ctaSecondary": "Xem lộ trình",
+        "soc2": "Chứng nhận SOC2",
+        "gdpr": "Tuân thủ GDPR"
+    },
+    "features": {
+        "title": "Tính năng",
+        "heading": "Mọi thứ bạn cần để",
+        "headingHighlight": "ký an toàn",
+        "subheading": "Được xây dựng cho các doanh nghiệp yêu cầu sự linh hoạt, bảo mật và tuân thủ.",
+        "securePdfUpload": "Tải lên PDF an toàn",
+        "securePdfUploadDesc": "Kéo và thả tải lên PDF với mã hóa AES-256 khi lưu trữ và truyền tải.",
+        "workflowOtp": "Quy trình & OTP",
+        "workflowOtpDesc": "Quy trình ký linh hoạt với xác minh OTP qua SMS/Email cho tất cả người ký.",
+        "auditTrail": "Nhật ký kiểm tra & Webhooks",
+        "auditTrailDesc": "Nhật ký kiểm tra chống giả mạo và webhooks thời gian thực để tích hợp hệ thống.",
+        "onPremLicense": "Giấy phép Tại chỗ",
+        "onPremLicenseDesc": "Kiểm soát hoàn toàn dữ liệu của bạn với triển khai tại chỗ dựa trên Docker của chúng tôi."
+    },
+    "roadmap": {
+        "title": "Lộ trình",
+        "heading": "Sự phát triển",
+        "headingHighlight": "Sản phẩm",
+        "phase1Title": "Giai đoạn 1: Cốt lõi",
+        "phase1Desc": "Ký PDF cơ bản, OTP qua Email, Quy trình đơn giản.",
+        "phase2Title": "Giai đoạn 2: Nâng cao",
+        "phase2Desc": "Ký nhiều bên, OTP qua SMS, Quản lý mẫu.",
+        "phase3Title": "Giai đoạn 3: Lớp SaaS",
+        "phase3Desc": "Kiến trúc đa tenant, Thanh toán đăng ký, Truy cập API.",
+        "phase4Title": "Giai đoạn 4: Tại chỗ",
+        "phase4Desc": "Container hóa Docker, Quản lý khóa giấy phép, LDAP/AD.",
+        "phase5Title": "Giai đoạn 5: Doanh nghiệp",
+        "phase5Desc": "Tích hợp HSM, Thương hiệu tùy chỉnh, Hỗ trợ SLA.",
+        "statusCompleted": "đã hoàn thành",
+        "statusCurrent": "hiện tại",
+        "statusUpcoming": "sắp tới"
+    },
+    "trial": {
+        "title": "Bắt đầu",
+        "titleHighlight": "Dùng thử miễn phí",
+        "description": "Trải nghiệm sức mạnh của Ký điện tử an toàn ngay hôm nay. Không cần thẻ tín dụng.",
+        "successTitle": "Đăng ký thành công!",
+        "successDesc": "Kiểm tra email của bạn để nhận hướng dẫn đăng nhập.",
+        "registerAnother": "Đăng ký tài khoản khác",
+        "errorTitle": "Gửi thất bại",
+        "errorDesc": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
+        "fullName": "Họ và tên",
+        "company": "Công ty",
+        "workEmail": "Email công việc",
+        "phone": "Số điện thoại (Tùy chọn)",
+        "deploymentNeed": "Nhu cầu triển khai",
+        "saasOption": "SaaS (Đám mây)",
+        "onPremOption": "Tại chỗ",
+        "hybridOption": "Lai (Hybrid)",
+        "processing": "Đang xử lý...",
+        "submit": "Bắt đầu ngay bây giờ"
+    },
+    "faq": {
+        "title": "Câu hỏi thường gặp",
+        "q1": "Dữ liệu của tôi có an toàn với phiên bản SaaS không?",
+        "a1": "Chắc chắn rồi. Chúng tôi sử dụng mã hóa AES-256 cho dữ liệu lưu trữ và TLS 1.3 cho dữ liệu truyền tải. Các trung tâm dữ liệu của chúng tôi đạt chứng nhận SOC 2 Type II.",
+        "q2": "Triển khai Tại chỗ hoạt động như thế nào?",
+        "a2": "Chúng tôi cung cấp hình ảnh Docker container mà bạn có thể triển khai trong cơ sở hạ tầng của riêng mình (AWS, Azure hoặc trung tâm dữ liệu riêng). Bạn quản lý cơ sở dữ liệu và lưu trữ.",
+        "q3": "Tôi có thể tích hợp với ERP/CRM hiện có không?",
+        "a3": "Có, chúng tôi cung cấp API REST toàn diện và Webhooks cho phép bạn tích hợp quy trình ký trực tiếp vào các ứng dụng hiện có của mình.",
+        "q4": "Điều gì xảy ra nếu tôi cần nâng cấp từ SaaS lên Tại chỗ?",
+        "a4": "Việc di chuyển diễn ra liền mạch. Chúng tôi cung cấp các công cụ để xuất dữ liệu và nhật ký kiểm tra từ đám mây của chúng tôi sang phiên bản riêng của bạn."
+    },
+    "footer": {
+        "desc": "Chữ ký điện tử an toàn, có thể mở rộng và tuân thủ cho doanh nghiệp hiện đại. Được xây dựng với ưu tiên bảo mật hàng đầu.",
+        "product": "Sản phẩm",
+        "features": "Tính năng",
+        "pricing": "Bảng giá",
+        "roadmap": "Lộ trình",
+        "apiDocs": "Tài liệu API",
+        "support": "Hỗ trợ",
+        "helpCenter": "Trung tâm trợ giúp",
+        "status": "Trạng thái",
+        "contactSales": "Liên hệ bán hàng",
+        "descEnterprise": "Các tính năng nâng cao cho các tổ chức đang mở rộng.",
+        "descOnPrem": "Kiểm soát hoàn toàn và tuân thủ cho các doanh nghiệp lớn.",
+        "mostPopular": "Phổ biến nhất",
+        "contactSales": "Liên hệ bán hàng",
+        "startTrial": "Bắt đầu dùng thử",
+        "saasFeatures": {
+            "unlimitedDocs": "Tài liệu không giới hạn",
+            "basicWorkflows": "Quy trình cơ bản",
+            "emailOtp": "OTP qua Email",
+            "cloudStorage": "Lưu trữ đám mây",
+            "standardSupport": "Hỗ trợ tiêu chuẩn"
+        },
+        "enterpriseFeatures": {
+            "everythingSaas": "Mọi thứ trong SaaS",
+            "smsOtp": "OTP qua SMS",
+            "advancedWorkflows": "Quy trình nâng cao",
+            "apiAccess": "Truy cập API",
+            "prioritySupport": "Hỗ trợ ưu tiên"
+        },
+        "onPremFeatures": {
+            "fullDataControl": "Kiểm soát dữ liệu hoàn toàn",
+            "dockerDeployment": "Triển khai Docker",
+            "adLdapIntegration": "Tích hợp AD/LDAP",
+            "customBranding": "Thương hiệu tùy chỉnh",
+            "dedicatedManager": "Quản lý thành công chuyên dụng"
+        }
+    },
+    "login": {
+        "title": "Chào mừng trở lại",
+        "email": "Địa chỉ Email",
+        "password": "Mật khẩu",
+        "submit": "Đăng nhập",
+        "forgot": "Quên mật khẩu?",
+        "rememberMe": "Ghi nhớ đăng nhập",
+        "or": "Hoặc tiếp tục với",
+        "google": "Google",
+        "microsoft": "Microsoft"
+    }
+}

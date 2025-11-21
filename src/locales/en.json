@@ -1,0 +1,131 @@
+{
+    "nav": {
+        "features": "Features",
+        "pricing": "Pricing",
+        "roadmap": "Roadmap",
+        "login": "Login",
+        "getStarted": "Get Started"
+    },
+    "hero": {
+        "badge": "E-Signature SaaS & On-Premise Solution",
+        "title": "Secure Signing for",
+        "titleHighlight": "Modern Enterprises",
+        "description": "The ultimate multi-tenant E-Signature platform. Deploy on-premise or use our secure SaaS cloud. Complete audit trails, workflow automation, and enterprise-grade security.",
+        "ctaPrimary": "Start Free Trial",
+        "ctaSecondary": "View Roadmap",
+        "soc2": "SOC2 Certified",
+        "gdpr": "GDPR Compliant"
+    },
+    "features": {
+        "title": "Features",
+        "heading": "Everything you need to",
+        "headingHighlight": "sign securely",
+        "subheading": "Built for enterprises that demand flexibility, security, and compliance.",
+        "securePdfUpload": "Secure PDF Upload",
+        "securePdfUploadDesc": "Drag & drop PDF upload with AES-256 encryption at rest and in transit.",
+        "workflowOtp": "Workflow & OTP",
+        "workflowOtpDesc": "Flexible signing workflows with SMS/Email OTP verification for all signers.",
+        "auditTrail": "Audit Trail & Webhooks",
+        "auditTrailDesc": "Tamper-evident audit logs and real-time webhooks for system integration.",
+        "onPremLicense": "On-Premise License",
+        "onPremLicenseDesc": "Full control over your data with our Docker-based on-premise deployment."
+    },
+    "roadmap": {
+        "title": "Roadmap",
+        "heading": "Product",
+        "headingHighlight": "Evolution",
+        "phase1Title": "Phase 1: Core",
+        "phase1Desc": "Basic PDF signing, Email OTP, Simple Workflow.",
+        "phase2Title": "Phase 2: Advanced",
+        "phase2Desc": "Multi-party signing, SMS OTP, Template management.",
+        "phase3Title": "Phase 3: SaaS Layer",
+        "phase3Desc": "Multi-tenant architecture, Subscription billing, API Access.",
+        "phase4Title": "Phase 4: On-Prem",
+        "phase4Desc": "Docker containerization, License key management, LDAP/AD.",
+        "phase5Title": "Phase 5: Enterprise",
+        "phase5Desc": "HSM Integration, Custom branding, SLA Support.",
+        "statusCompleted": "completed",
+        "statusCurrent": "current",
+        "statusUpcoming": "upcoming"
+    },
+    "trial": {
+        "title": "Start Your",
+        "titleHighlight": "Free Trial",
+        "description": "Experience the power of secure E-Signatures today. No credit card required.",
+        "successTitle": "Registration Successful!",
+        "successDesc": "Check your email for login instructions.",
+        "registerAnother": "Register another account",
+        "errorTitle": "Submission failed",
+        "errorDesc": "Something went wrong. Please try again later.",
+        "fullName": "Full Name",
+        "company": "Company",
+        "workEmail": "Work Email",
+        "phone": "Phone (Optional)",
+        "deploymentNeed": "Deployment Need",
+        "saasOption": "SaaS (Cloud)",
+        "onPremOption": "On-Premise",
+        "hybridOption": "Hybrid",
+        "processing": "Processing...",
+        "submit": "Get Started Now"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Is my data secure with the SaaS version?",
+        "a1": "Absolutely. We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. Our data centers are SOC 2 Type II certified.",
+        "q2": "How does the On-Premise deployment work?",
+        "a2": "We provide a Docker container image that you can deploy in your own infrastructure (AWS, Azure, or private data center). You manage the database and storage.",
+        "q3": "Can I integrate with my existing ERP/CRM?",
+        "a3": "Yes, we offer a comprehensive REST API and Webhooks that allow you to integrate signing workflows directly into your existing applications.",
+        "q4": "What happens if I need to upgrade from SaaS to On-Prem?",
+        "a4": "Migration is seamless. We provide tools to export your data and audit logs from our cloud to your private instance."
+    },
+    "footer": {
+        "desc": "Secure, scalable, and compliant electronic signatures for the modern enterprise. Built with security first.",
+        "product": "Product",
+        "features": "Features",
+        "pricing": "Pricing",
+        "roadmap": "Roadmap",
+        "apiDocs": "API Docs",
+        "support": "Support",
+        "helpCenter": "Help Center",
+        "status": "Status",
+        "contactSales": "Contact Sales",
+        "descEnterprise": "Advanced features for scaling organizations.",
+        "descOnPrem": "Full control and compliance for large enterprises.",
+        "mostPopular": "Most Popular",
+        "contactSales": "Contact Sales",
+        "startTrial": "Start Trial",
+        "saasFeatures": {
+            "unlimitedDocs": "Unlimited Documents",
+            "basicWorkflows": "Basic Workflows",
+            "emailOtp": "Email OTP",
+            "cloudStorage": "Cloud Storage",
+            "standardSupport": "Standard Support"
+        },
+        "enterpriseFeatures": {
+            "everythingSaas": "Everything in SaaS",
+            "smsOtp": "SMS OTP",
+            "advancedWorkflows": "Advanced Workflows",
+            "apiAccess": "API Access",
+            "prioritySupport": "Priority Support"
+        },
+        "onPremFeatures": {
+            "fullDataControl": "Full Data Control",
+            "dockerDeployment": "Docker Deployment",
+            "adLdapIntegration": "AD/LDAP Integration",
+            "customBranding": "Custom Branding",
+            "dedicatedManager": "Dedicated Success Manager"
+        }
+    },
+    "login": {
+        "title": "Welcome back",
+        "email": "Email address",
+        "password": "Password",
+        "submit": "Sign in",
+        "forgot": "Forgot password?",
+        "rememberMe": "Remember me",
+        "or": "Or continue with",
+        "google": "Google",
+        "microsoft": "Microsoft"
+    }
+}
