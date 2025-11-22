@@ -10,7 +10,7 @@ import LoginPage from './pages/LoginPage';
 function App() {
   return (
     <LanguageProvider>
-      <Router>
+      <Router basename="/homepage">
         <div className="min-h-screen bg-white font-sans text-gray-900">
           <Navbar />
           <Routes>
